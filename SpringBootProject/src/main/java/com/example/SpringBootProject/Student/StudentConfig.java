@@ -32,7 +32,7 @@ public class StudentConfig {
 		
 		studentRepository.saveAll(
 				List.of( Rohith, Reddy)
-				);
+				); 
 		};
 		
 		
