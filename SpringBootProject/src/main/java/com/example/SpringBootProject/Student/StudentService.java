@@ -16,7 +16,7 @@ public class StudentService {
 	private final StudentRepository studentRepository;
 
 	public StudentService(StudentRepository studentRepository) {
-		super();
+//		super();
 		this.studentRepository = studentRepository;
 	}
 
