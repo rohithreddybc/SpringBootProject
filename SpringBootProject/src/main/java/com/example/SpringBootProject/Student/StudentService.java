@@ -66,6 +66,7 @@ public class StudentService {
 	}
 
 
+	//manually added values to test
 //	@GetMapping
 //	public List<Student> getStudents() {
 //		return List.of(
